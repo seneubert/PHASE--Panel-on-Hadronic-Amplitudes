@@ -1,3 +1,4 @@
 untitled.tex
 section_Goals__.tex
 section_PHASE_Structure__.tex
+section_Activities__.tex
