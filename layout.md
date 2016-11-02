@@ -1,1 +1,2 @@
 untitled.tex
+section_Goal_of_the_Panel__.tex
