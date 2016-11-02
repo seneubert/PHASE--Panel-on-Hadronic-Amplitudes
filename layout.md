@@ -1,7 +1,6 @@
 untitled.tex
 section_Goals__.tex
 section_PHASE_Structure_subsection_Experiment__.tex
-subsection_Experiment_Liaisons_subsection_Theory__.tex
 section_Activities__.tex
 subsection_PHASE_Repository_subsection_Hadron__.tex
 section_Funding__.tex
