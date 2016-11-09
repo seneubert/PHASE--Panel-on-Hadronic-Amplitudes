@@ -4,4 +4,3 @@ figures/PHASEstructure/PHASEstructure.png
 subsection_Liaisons_Each_collaboration_sends__.tex
 section_Activities_label_sec_activities__.tex
 section_Funding_label_sec_funding__.tex
-untitled.tex
