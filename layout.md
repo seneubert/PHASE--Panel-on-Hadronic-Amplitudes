@@ -1,7 +1,7 @@
 section_Vision_and_Goals_The__.tex
 section_PHASE_Structure_label_sec__.tex
 figures/PHASEstructure/PHASEstructure.png
-subsection_Experiment_Liaisons_Each_collaboration__.tex
+subsection_Liaisons_Each_collaboration_sends__.tex
 section_Activities_label_sec_activities__.tex
 section_Funding_label_sec_funding__.tex
 untitled.tex
