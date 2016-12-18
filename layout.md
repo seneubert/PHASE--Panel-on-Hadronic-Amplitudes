@@ -6,4 +6,3 @@ subsection_Liaisons_Each_collaboration_sends__.tex
 section_Activities_label_sec_activities__.tex
 section_Publication_policy_label_sec__.tex
 section_Timeline_subsection_PHASE_0__.tex
-section_Project_ideas_Here_is__.tex
